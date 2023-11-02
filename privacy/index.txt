@@ -1,0 +1,178 @@
+We take user privacy and personal information protection very seriously. We understand the importance of personal information to you and will do our best to protect the security of your personal information. When you use our products or services, we may collect
+Collect and use your relevant information. We hope to use the Privacy Policy to explain to you how we collect, use and protect this information when you use our products or services. This privacy policy does not apply to other independent
+Services provided to you by third parties. For example, when a third party on our platform provides services to you based on our platform, this privacy policy does not apply to the personal information you provide to the third party. Our use by any third party is up to you.
+The information is provided without any liability.
+Before using our products or services, please be sure to carefully read and thoroughly understand this Privacy Policy, and use relevant products or services after confirming that you fully understand and agree. If you do not agree to any content in this Privacy Policy, you
+You should stop using our platform services immediately. If you use the products or services we provide, it means that you have fully understood and agreed to what we have stated in this policy.
+Part 1 Definition
+You: "You" in this Agreement specifically refers to the users who use our game products or services.
+Personal information: Personal information in this Agreement refers to various information recorded electronically or by other means that can identify the identity of a specific natural person or reflect the activities of a specific natural person alone or in combination with other information. this privacy
+Personal information involved in the policy includes: basic information (including personal name, birthday, gender, address, personal phone number, email address); personal identity information (including ID card, military ID card, passport, driver's license
+etc.); personal image, voice and picture; network identity information (including system account number, IP address, email address and passwords, passphrases and password protection answers related to the foregoing); personal property information (transactions and messages)
+fee records and virtual property information such as U coins); personal commonly used device information (including hardware model, device MAC address, operating system type, software list unique device identification code (such as IMEI/android ID/IDFA/
+Information describing the basic situation of personal commonly used devices, including OPENUDID/GUID, SIM card IMSI information, etc.); personal location information (precise positioning information, accommodation information, longitude and latitude, etc.).
+
+   This policy will help you understand the following:
+1. How we collect your personal information
+2. How we use your personal information
+3. How we entrust you to process, share, transfer and publicly disclose your personal information
+4. How we store and protect your personal information
+5. Use of Cookies
+6. Access, modify and delete information
+7. How we process personal information of minors
+8. Special Terms of Privacy Policy
+9. Updates to Privacy Policy
+10. Jurisdiction and application
+
+1. How we collect your information
+We collect and use your personal information in accordance with the principles of legality, legitimacy and necessity to achieve the functions described in this policy:
+(1) Information you provide to us.
+1. Information you submit when registering an account on our platform or products
+    When you register or log in to our game account, you can create an account through your mobile phone number. We will verify whether your identity is valid by sending a SMS verification code. You can actively complete relevant network identity information.
+(such as avatar, nickname and password). You can fill in your ID card and other information to complete your personal information. You can also use a third-party account to log in to our game platform. At this time, you will authorize us to obtain your information on the third-party platform.
+public information (avatar, nickname), and bind your third-party account with your game account, so that you can log in directly through the third-party account and use our game products and services. After completing registration, you
+You will be able to play games on our gaming platform as a registered user. If you do not agree to authorize or refuse us to obtain the above information, we will not be able to provide you with relevant functions and services.
+    When you use game services, according to relevant national laws, regulations and regulatory requirements, you need to provide your real identity information (real name, ID number) to complete real-name verification. This information is sensitive personal information
+We will try our best to protect the security of your personal sensitive information. If you do not provide this information, your game functionality will be limited.
+2. The information you fill in or submit when using the relevant services we provide, including your name, gender, ID number, phone number, email, address, interests and hobbies, bank account number and related additional information
+(Such as your province and city, postal code, etc.).
+Please note: Even if you delete the shared information, the relevant information may still be cached, copied or stored independently by unaffiliated third parties not controlled by us, or saved in the public domain (such as cloud servers) by other users or third parties.
+supplier).
+If you request to delete your relevant information from our services, please contact us. However, according to relevant laws and regulations, the services you use will be restricted.
+(2) Information collected during your use of the service.
+In order to better serve you, we will collect relevant information about you, including:
+1. In order to ensure your normal use of the basic functions and normal services of our games, improve and optimize our service experience, and protect the security of your account, we will automatically receive and record your browser, computer, and mobile device
+Information, including but not limited to your IP address, browser type, language used, access date and time, software and hardware feature information, and your web page records; if you download or use us or our affiliated companies
+When using our company's client software, or accessing mobile webpages to use our platform's services, we may read information related to your location and mobile device, including but not limited to device model, device identification code, operating system, and location.
+resolution, telecom operators, etc. Please understand that this information is the basic information we must collect to provide services and ensure the normal operation of the services.
+2. Provide functions or services related to recharge and consumption
+When you use the consumption function of our game products, we will collect your recharge records and consumption record information so that you can check your transaction records, and at the same time protect the security of your property and virtual property to the greatest extent possible. superior
+The above information is sensitive information, but collecting the above information is necessary to implement relevant functions, otherwise the transaction will not be completed.
+3. In addition to the above information, in order to improve service quality, we may also collect other information about you, including but not limited to the relevant information you provide when you contact our customer service team.
+Questionnaire response information sent by us, as well as relevant information provided when you interact with our affiliates and partners.
+(3) Situations in which we obtain your personal information from third parties.
+In order to provide you with better services or to prevent Internet crimes, our affiliates and partners will share your personal information with us in accordance with the provisions of the law or with your consent. We may obtain the account information (avatar, nickname) you authorize to share from a third party, and bind your third-party account to your account after you agree to this privacy policy, so that you can log in and use it directly through the third-party account our products or services. We will use your personal information in compliance with relevant laws and regulations after confirming the legality of the source of the personal information based on the agreement with the third party.
+(4) Exceptions to obtaining authorized consent.
+According to relevant laws and regulations, your authorization is not required to collect your information in the following situations:
+(1) Directly related to national security and national defense security;
+(2) Directly related to public security, public health, and major public interests;
+(3) Directly related to criminal investigation, prosecution, trial and execution of judgment;
+(4) To protect your or other individuals’ life, property and other major legitimate rights and interests but it is difficult to obtain your consent;
+(5) The personal information collected is disclosed to the public by you yourself;
+(6) Necessary to sign and perform the contract according to your requirements;
+(7) Collect personal information from legally publicly disclosed information, such as legal news reports, government information disclosure and other channels;
+(8) Necessary to maintain the safe and stable operation of our services, such as discovering and handling product or service failures;
+(9) Necessary for conducting legitimate news reporting;
+(10) When it is necessary to carry out statistical or academic research in the public interest, and when the results of academic research or description are provided to the outside world, the information contained in the results will be de-identified;
+(11) Other situations stipulated by laws and regulations.
+
+2. How we use your information
+In order to improve service quality, we may use your information for the following purposes:
+1. Provide services to you;
+2. For identity verification, customer service, security prevention, fraud monitoring, archiving and backup purposes to ensure the security of the products and services we provide to you;
+3. Recommend to you content that may be of interest to you, including but not limited to sending you product, service information or related advertisements, showing you personalized third-party promotional information through the system, or communicating with you with your consent.
+Our partners share information so that they can send you information about their products and services;
+4. We may combine your personal information with other service information to provide you with more personalized services.
+5. Allow you to participate in surveys, promotions and sweepstakes about our products and services;
+6. Let us better understand how you access and use our services, so as to respond to your personalized needs, such as language settings, location settings, personalized help services and instructions, or for you and other users.
+Provide other responses;
+7. Software certification or management software upgrades;
+8. Other uses with your permission.
+
+3. How we entrust you to process, share and publicly disclose your information
+(1) Entrusted processing
+Certain games or features available on our gaming platform are provided by external vendors. For example, we will hire service providers to assist us in real-name authentication of users. To the companies, organizations and individuals we entrust to process personal information
+, we will sign a strict confidentiality agreement with them, requiring them to handle personal information in accordance with our requirements, this Privacy Policy and any other relevant confidentiality and security measures.
+(2) Sharing
+1. Sharing with affiliated companies: To facilitate us to provide you with products and services based on our game account, recommend information that you may be interested in, identify abnormalities in member accounts, and protect our game affiliated companies or other users
+or the public’s personal and property safety from infringement, your personal information may be shared with our affiliated companies and or their designated service providers. We will only share personal information that is necessary and as described in this privacy policy
+Purposeful constraints;
+2. Sharing with authorized partners: We may entrust authorized partners to provide you with certain services or perform functions on our behalf. We will only share the information for the legal, legitimate, necessary, specific and clear reasons stated in this privacy policy.
+For the purpose of sharing your information, authorized partners will only have access to the information necessary to perform their duties and may not use this information for any other purpose.
+Currently, our authorized partners include the following types:
+(1) Game suppliers, service providers and other partners. We send information to vendors, service providers and other partners who support our business, including providing technology infrastructure services
+, analyze how our services are used, measure the effectiveness of games and services, provide customer service, facilitate payment, or conduct academic research and surveys.
+(2) Authorized partners in advertising and analysis services. We will not share your personally identifiable information with partners who provide advertising and analysis services. We will provide these partners with information about their advertising coverage and
+Valid information, but does not provide your personally identifiable information, or we aggregate the information so that it does not identify you personally. Such partners may combine the above information with other data they lawfully obtain
+Combined to make advertising or decision-making recommendations;
+We will agree with them strict data protection measures and require them to process personal information in accordance with our instructions, this Privacy Policy and any other relevant confidentiality and security measures.
+(3) Public disclosure
+We will only publicly disclose your personal information under the following circumstances:
+1. We may publicly disclose your personal information with your explicit consent or based on your active choice;
+2. If we determine that you have violated laws and regulations or seriously violated our game-related agreements and rules, or to protect the personal and property safety of other users or the public from infringement, we may act in accordance with laws, regulations or
+Disclosure of personal information about you with your consent.
+
+4. How we store and protect your personal information
+(1) Storage of your personal information
+     1. Storage period
+     While you are using our game products and services, we will continue to save your personal information for you. We will store your information in accordance with laws and regulations such as the Cybersecurity Law. After you cancel your account or actively delete the above
+After receiving the information, we will no longer use your personal information commercially, but we may anonymize your personal information before using it.
+     2. Save the region
+Your personal information is stored within the country and we will not transfer your personal information across borders.
+(2) Protection of your personal information
+1. To ensure the security of your information, we strive to take various reasonable physical, electronic and management security measures to protect your information so that your information will not be leaked, damaged or lost, including but not limited to SS
+L. Information encryption storage and data center access control. We have also adopted strict management of employees or outsourced personnel who may have access to your information, including but not limited to adopting different authority controls based on different positions.
+Sign confidentiality agreements with them and monitor their operations and other measures. We will provide corresponding security measures based on existing technologies to protect your information and provide reasonable security protection. We will try our best to ensure that your information
+Not leaked, damaged or lost.
+2. Your account has security protection function, please keep your account and password information properly. We will use security measures such as backing up other servers and encrypting user passwords to ensure that your information is not lost or abused.
+Use and transform. Despite the aforementioned security measures, please also understand that there are no "perfect security measures" on information networks.
+3. When using our platform services for online transactions, you will inevitably disclose your personal information, such as bank account information, contact information or postal address, to the counterparty or potential counterparty. Please be careful
+Protect your personal information well and only provide it to others when necessary. If you find that your personal information has been leaked, especially your account and password, please contact our customer service immediately so that we can take action.
+Take appropriate measures.
+
+5. Use of Cookies
+In order to provide you with an easier access experience, when you visit our platform website or use the services provided by our platform, we may identify you through small data files. This will save you the need to repeatedly enter your information.
+steps to register information, or help determine the security of your account. These data files may be cookies, Fla.sh cookies, other local storage provided by your browser or associated applications (collectively, "Cookies").
+Please understand that some of our services can only be achieved through the use of "Cookies". If your browser or browser extensions allow it, you can modify your acceptance of Cookies or refuse our Cookies.
+okie, but in some cases this action may affect your safe access to our platform-related websites and use of the services provided by our platform.
+Our products and services may have cookies and web beacons placed by advertisers or other partners. These cookies and web beacons may collect non-personally identifiable information about you for analysis purposes.
+Analyze how users use such services, send you advertisements that may be of interest to you, or evaluate the effectiveness of advertising services. The collection and use of such information by these third-party cookies and web beacons is not governed by this Privacy Policy.
+policy, but is subject to the privacy policy of the relevant user. We are not responsible for third-party cookies or web beacons.
+You can refuse or manage cookies or web beacons through your browser settings. However, please note that if you disable cookies or web beacons, you may not be able to enjoy the best service experience, and some services may not be available.
+Normal use.
+
+6. Access, modify and delete information
+You can access, modify and delete the registration information and other personal information you provide while using our services. The scope and manner in which you can access, modify and delete your personal information will depend on the specific services you use.
+
+We will only collect and use your information in accordance with this policy to implement the functions of our products or services. If you find that we collect or use your personal information in violation of laws, administrative regulations or the agreement between the two parties,
+Information, you can ask us to delete it. If you find that there are errors in your personal information that we collect and store, you can also ask us to correct it.
+You can access, modify or delete your information in the following ways:
+1. Log in to the official website of Game Center and enter the "Personal Center" to modify;
+2. Contact customer service to make modifications.
+(2) Change the scope of your authorization and consent
+Each business function requires some basic personal information to be completed. You can give or withdraw authorization consent from us by changing the settings of smart mobile devices such as mobile phones and tablets or by the methods listed above.
+meaning. After you withdraw the relevant authorization consent, we will no longer process the corresponding personal information. However, your decision to withdraw your consent will not affect the previous processing of personal information based on your authorization.
+(3) How we respond to your above request
+When you access, modify or delete relevant information or accounts, we may require you to perform identity verification to ensure the security of your account.
+Please understand that due to technical limitations, legal or regulatory requirements, we may not be able to meet all your requirements, and we will respond to your requests within a reasonable period of time. At the same time, in accordance with relevant laws, regulations and national standards,
+We may not be able to respond to your request under the following circumstances:
+1. Directly related to national security and national defense security;
+2. Directly related to public safety, public health, and major public interests;
+3. Directly related to criminal investigation, prosecution, trial and execution of judgments;
+4. There is sufficient evidence that you have subjective malice or abused your rights;
+5. Responding to your request will cause serious damage to the legitimate rights and interests of other individuals and organizations;
+6. Involving trade secrets.
+
+7. Special agreement on privacy rights of minors
+We require parents or guardians to instruct minors under the age of eighteen in using our services after reading this Privacy Policy.
+
+8. Special Terms of Privacy Policy
+You are fully aware that we do not need to obtain your authorization and consent to collect and use personal information in the following situations:
+1. Relevant to national security and social and public interests;
+2. Relevant to criminal investigation, prosecution, trial and execution of judgments;
+3. To protect the life, property and other major legitimate rights and interests of the personal information subject or other individuals but it is difficult to obtain the consent of the individual;
+4. The personal information collected is disclosed to the public by the personal information subject on his own initiative;
+5. Your personal information collected from legally publicly disclosed information, such as legal news reports, government information disclosure and other channels;
+6. Violation of legal provisions or violation of our platform rules has resulted in us taking necessary measures against you;
+7. Necessary to sign a contract according to your requirements;
+8. Necessary to maintain the safe and stable operation of the products or services provided, such as discovering and handling product or service failures;
+9. Necessary for legitimate news reporting;
+10. When it is necessary for an academic research institution to conduct statistical or academic research based on public interests, and when providing externally the results of academic research or descriptions, the personal information contained in the results will be de-identified;
+11. Other situations stipulated by laws and regulations.
+
+9. Changes to Privacy Policy
+We may revise the terms of this Privacy Policy from time to time, and such revisions shall form part of this Privacy Policy. If such revisions result in a substantial reduction of your rights under this Privacy Policy, we will notify you by posting a notice on our homepage before the revisions take effect.
+Prompt you in a prominent location or send you an email or otherwise notify you. In this case, if you continue to use our services, you agree to be bound by the revised Privacy Policy.
+
+10. Jurisdiction and application of law
+The establishment, effectiveness, performance, interpretation and dispute resolution of this Privacy Policy shall be governed by the laws of the country, and the application of its conflict of laws rules shall be expressly excluded.
